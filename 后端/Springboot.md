@@ -14,7 +14,7 @@ Spring Boot 是一个基于 **Spring Framework** 的开源框架，用于快速�
 
 >Java = 砖头和水泥（原材料）
 >Spring = 建筑工具和规范（如何组织使用）
-> Spring Boot = 预制房屋（直接用，几乎不用改）
+>Spring Boot = 预制房屋（直接用，几乎不用改）
 
 ### 1. **层级关系图**
 
