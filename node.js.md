@@ -1,4 +1,4 @@
-Node.js 是让 JavaScript 能在**浏览器之外**运行的环境。
+> Node.js 是让 JavaScript 能在**浏览器之外**运行的环境。
 
 **一句话理解：**
 
