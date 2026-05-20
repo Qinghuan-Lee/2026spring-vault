@@ -25,6 +25,17 @@
 >  推送  git push
 
 
+>[! add ，commit和push的区别]
+> add是提交到暂存区
+> commit是提交到本地仓库
+> push是提交到远程仓库
+
+
+
+
+
+
+
 把本地文件上传到 GitHub 指定仓库，主要分两种情况：
 
 ---
@@ -64,9 +75,3 @@ Initialized empty Git repository in D:/go-chat/.git/
 
 ---
 
-**补充几个常用点：**
-
-- 首次使用需要配置身份：`git config --global user.name "你的名字"` 和 `git config --global user.email "你的邮箱"`
-- GitHub 现在不支持密码认证推送，需要用 **Personal Access Token**（在 GitHub Settings → Developer settings → Personal access tokens 生成）或配置 **SSH key**
-- 查看当前远程地址：`git remote -v`
-- 如果推错了远程地址，可以改：`git remote set-url origin 新地址`
