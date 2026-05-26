@@ -5,3 +5,10 @@
 - [ ] pi mono
 
 - [ ] mahiro+
+
+可以用hexo 来建站   but。。。。有点不知道该输出啥
+https://hexo.io/zh-cn/docs/
+
+
+
+
