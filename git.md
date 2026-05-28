@@ -35,7 +35,6 @@
 
 
 
-
 把本地文件上传到 GitHub 指定仓库，主要分两种情况：
 
 ---
@@ -74,4 +73,15 @@ Initialized empty Git repository in D:/go-chat/.git/
 如果远程仓库非空（比如建仓库时勾了 README），先拉取再推送：`git pull origin main --rebase`，然后再 `git push`。
 
 ---
+
+
+
+
+> 感觉这个ai写的有点像一坨   我来总结一下
+
+`git init` 
+
+`git remote add origin https://github.com/用户名/仓库名.git`
+
+`git pull origin main --rebase`
 
