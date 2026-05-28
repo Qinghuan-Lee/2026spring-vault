@@ -17,6 +17,10 @@
 > 结账  签出
 
 
+# remote
+git remote add () ()
+
+
 # 上传github
 
 
