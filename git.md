@@ -18,9 +18,11 @@
 
 
 # remote
-git remote 用来管理远程仓库
+>git remote 用来管理远程仓库
+
+
 git remote add < 名称> (url)
-名称一般用origin
+名称初次 一般用origin
 所以是git remote add origin https: ... .git
 
 # 上传github
