@@ -12,3 +12,8 @@ https://hexo.io/zh-cn/docs/
 
 
 
+> mysql 安装出来问题
+
+>打开讲义
+
+> 项目重新启动
