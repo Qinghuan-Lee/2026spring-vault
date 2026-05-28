@@ -18,7 +18,7 @@
 
 
 # remote
-git remote add () ()
+git remote add < 名称> (url)
 
 
 # 上传github
