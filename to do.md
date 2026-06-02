@@ -10,10 +10,23 @@
 https://hexo.io/zh-cn/docs/
 
 
-
+# sky takeout
 
 > mysql 安装出来问题
 
 >打开讲义
 
 > 项目重新启动
+
+
+# kama claude
+[kamaclaude-pqz7](https://www.yuque.com/chengxuyuancarl/nvd81p?#)
+
+# skills
+[skills.sh](https://www.skills.sh/vercel-labs/skills/find-skills)
+
+[claude skills官方文档](https://code.claude.com/docs/zh-CN/features-overview)
+
+[知乎](https://zhuanlan.zhihu.com/p/2015725269667840386)
+
+# 缘之空重置组
