@@ -211,7 +211,7 @@
    $filePath = "D:\yosuga-no-sora-remake\system\KAGParserCompat.tjs"
    $content = Get-Content $filePath -Encoding Unicode -Raw
 
-   # 修改1: 在 _parseTagLine 中添加 tagName 小写化
+   修改1: 在 _parseTagLine 中添加 tagName 小写化
    $old1 = 'var tagName = parts[0];
                 var elm = %[tagname: tagName];'
    $new1 = 'var tagName = parts[0];
