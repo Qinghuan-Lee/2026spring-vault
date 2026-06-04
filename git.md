@@ -4,7 +4,33 @@
 # commit 提交
 >git commit 
 >commit 把 ...托付给....
-  
+
+
+## 开源项目的commit
+  正确的贡献流程
+
+1. Fork — 在 GitHub 上点 Fork，复制一份到你的账号下
+
+2. Clone 你自己的 fork
+  git clone https://github.com/你的用户名/项目名.git
+  cd 项目名
+
+   3. 添加上游仓库（upstream）
+  git remote add upstream https://github.com/原作者/项目名.git
+
+   4. 创建功能分支（不要在 main 上直接改）
+  git checkout -b feat/你的功能名
+
+   5. 写代码，提交
+  git add .
+  git commit -m "feat: 添加了xxx功能"
+
+   6. 推到你自己的 fork
+  git push origin feat/你的功能名
+
+   7. 在 GitHub 上创建 Pull Request
+  #    从 你的fork:feat/xxx → 原仓库:main
+
 # branch 分支
 > git branch
 > branch 分支
