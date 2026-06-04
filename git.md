@@ -25,6 +25,14 @@ git remote add < 名称> (url)
 名称初次 一般用origin
 所以是git remote add origin https: ... .git
 
+
+## 如何查看当前文件关联的是哪个仓库
+
+> git remote -v
+
+
+
+
 # 上传github
 
 
