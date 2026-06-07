@@ -78,7 +78,7 @@ func sum(nums ...int) int {
 }
 ```
 
-## 4. **控制流**
+## 4. 控制流
 
 ```go
 // if-else

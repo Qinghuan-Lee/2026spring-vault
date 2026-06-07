@@ -9,6 +9,8 @@
 可以用hexo 来建站   but。。。。有点不知道该输出啥
 https://hexo.io/zh-cn/docs/
 
+找到一个codeshep可以看他视频 做项目
+
 
 # sky takeout
 
