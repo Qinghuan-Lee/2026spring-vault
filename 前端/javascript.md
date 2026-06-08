@@ -1,3 +1,9 @@
+
+> [!resources]
+> [js challenger](https://jschallenger.com)
+
+
+
 > javascript 是什么 语法是什么 怎么用
 
 JavaScript 是一种广泛使用的编程语言，最初为网页开发而生，现在也用于服务器端、移动应用、桌面应用等领域。
@@ -90,3 +96,4 @@ html
 ```
 
 如果想在服务器端运行，可以安装 Node.js，然后在终端执行 `node 文件名.js`。
+
