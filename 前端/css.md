@@ -35,11 +35,9 @@ h1 {
 
 # Css & Markdown
 
-.helight{
-	background: yellow;
-}
 
-<span class="highlight">这是高亮文字</span>
+
+<span class="background-color">这是高亮文字</span>
 
 <span style="color: red;">这是一句话</span>
 <span style = "background : red;">这也是一句话</span >
